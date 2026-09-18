@@ -21,4 +21,5 @@ jobs:
         with:
           feed_list: "https://blog.100067.xyz/rss.xml"
           max_post_count: 6
-          template: "- [$title]($url)"
+          committer_username: liuqitoday
+          committer_email: liuqitoday@163.com
