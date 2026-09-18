@@ -8,14 +8,7 @@
 
 ## 最近文章
 
-<!-- BLOG-POST-LIST:START -->
-- [把海尔热水器接入米家，用小爱打开零冷水](https://blog.100067.xyz/posts/haier-zero-cold-water-automation/)
-- [Agent 开发的十条实践心得：工具、上下文与缓存的取舍](https://blog.100067.xyz/posts/agent-development-practices/)
-- [我为什么开始推荐 superpowers](https://blog.100067.xyz/posts/superpowers-internal-share/)
-- [跨设备全流量穿透方案](https://blog.100067.xyz/posts/cross-device-full-traffic-bypass/)
-- [Home Assistant 自动化避坑指南](https://blog.100067.xyz/posts/home-assistant-automation-troubleshooting-guide/)
-- [从一份真实抓包看 Codex 的 Skill 机制](https://blog.100067.xyz/posts/codex-skill-implementation-from-proxy-log/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [把海尔热水器接入米家，用小爱打开零冷水](https://blog.100067.xyz/posts/haier-zero-cold-water-automation/)- [Agent 开发的十条实践心得：工具、上下文与缓存的取舍](https://blog.100067.xyz/posts/agent-development-practices/)- [我为什么开始推荐 superpowers](https://blog.100067.xyz/posts/superpowers-internal-share/)- [跨设备全流量穿透方案：任意系统借助已准入设备绕过企业网络限制](https://blog.100067.xyz/posts/cross-device-full-traffic-bypass/)- [Home Assistant 自动化避坑指南：解决米家设备与小米中枢虚拟事件的误触发问题](https://blog.100067.xyz/posts/home-assistant-automation-troubleshooting-guide/)- [从一份真实抓包看 Codex 的 Skill 机制：发现、加载、执行与工具循环](https://blog.100067.xyz/posts/codex-skill-implementation-from-proxy-log/)<!-- BLOG-POST-LIST:END -->
 
 ## 仓库
 
