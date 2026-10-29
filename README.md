@@ -9,10 +9,10 @@
 ## 最近文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent 开发的十条实践心得：工具、上下文与缓存的取舍](https://blog.100067.xyz/posts/agent-development-practices/)
 - [跨设备全流量穿透方案：任意系统借助已准入设备绕过企业网络限制](https://blog.100067.xyz/posts/cross-device-full-traffic-bypass/)
 - [Chrome 扩展读不到登录 Cookie：MV3 凭据同步踩坑记](https://blog.100067.xyz/posts/mv3-cookie-credential-sync-pitfalls/)
 - [把海尔热水器接入米家，用小爱打开零冷水](https://blog.100067.xyz/posts/haier-zero-cold-water-automation/)
-- [Agent 开发的十条实践心得：工具、上下文与缓存的取舍](https://blog.100067.xyz/posts/agent-development-practices/)
 - [我为什么开始推荐 superpowers](https://blog.100067.xyz/posts/superpowers-internal-share/)
 - [Home Assistant 自动化避坑指南：解决米家设备与小米中枢虚拟事件的误触发问题](https://blog.100067.xyz/posts/home-assistant-automation-troubleshooting-guide/)
 <!-- BLOG-POST-LIST:END -->
